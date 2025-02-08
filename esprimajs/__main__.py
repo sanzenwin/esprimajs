@@ -2,7 +2,7 @@
 
 import sys
 import argparse
-from . import minify
+from .core import minify
 
 
 def main():

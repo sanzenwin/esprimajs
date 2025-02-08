@@ -6,7 +6,7 @@ with open("README.rst") as f:
 
 
 setuptools.setup(
-	name="esprimajs",
+	name="esprimajs-x",
 	version=__version__,
 	author="kdmal",
 	author_email="kdmal@yandex.ru",
